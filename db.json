@@ -31,7 +31,7 @@
   {
     "name": "Galerias",
     "url": "/",
-    "badge: false,
+    "badge": false,
     "matBadge": null,
     "icon": "collections"
   },
