@@ -1,14 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "menu": [
+   {
+    name: 'Home',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'home'
+  },
+  {
+    name: 'Campanhas',
+    url: '/componentes',
+    badge: false,
+    matBadge: null,
+    icon: 'store'
+  },
+  {
+    name: 'Meus prêmios',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'redeem'
+  },
+  {
+    name: 'Simulador de pontos',
+    url: '/simulador',
+    badge: false,
+    matBadge: null,
+    icon: 'money'
+  },
+  {
+    name: 'Galerias',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'collections'
+  },
+  {
+    name: 'Notícias',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'library_books'
+  },
+  {
+    name: 'Materiais de apoio',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'save_alt'
+  },
+  {
+    name: 'Treinamentos',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'school'
+  },
+  {
+    name: 'Painel de controle',
+    url: '/',
+    badge: false,
+    matBadge: null,
+    icon: 'web'
+  },
+  {
+    name: 'Recados',
+    url: '/',
+    badge: true,
+    matBadge: 4,
+    icon: 'notifications_none'
+  },
+  ]
