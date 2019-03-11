@@ -18,7 +18,7 @@
     "name": "Meus prêmios",
     "url": "/",
     "badge": false,
-    matBadge: null,
+    "matBadge": null,
     "icon": "redeem"
   },
   {
