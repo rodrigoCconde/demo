@@ -1,11 +1,11 @@
 {
   "menu": [
    {
-    "name": 'Home',
-    "url": '/',
+    "name": "Home",
+    "url": "/",
     "badge": false,
     "matBadge": null,
-    "icon": 'home'
+    "icon": "home"
   },
   {
     "name": 'Campanhas',
