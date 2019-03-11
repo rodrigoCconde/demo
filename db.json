@@ -8,66 +8,66 @@
     "icon": "home"
   },
   {
-    "name": 'Campanhas',
-    "url": '/componentes',
+    "name": "Campanhas",
+    "url": "/componentes",
     "badge": false,
     "matBadge": null,
-    "icon": 'store'
+    "icon": "store"
   },
   {
-    "name": 'Meus prêmios',
-    "url": '/',
+    "name": "Meus prêmios",
+    "url": "/",
     "badge": false,
     matBadge: null,
-    "icon": 'redeem'
+    "icon": "redeem"
   },
   {
-    "name": 'Simulador de pontos',
-    "url": '/simulador',
+    "name": "Simulador de pontos",
+    "url": "/simulador",
     "badge": false,
     "matBadge": null,
-    "icon": 'money'
+    "icon": "money"
   },
   {
-    "name": 'Galerias',
-    "url": '/',
+    "name": "Galerias",
+    "url": "/",
     "badge: false,
     "matBadge": null,
-    "icon": 'collections'
+    "icon": "collections"
   },
   {
-    "name": 'Notícias',
-    "url": '/',
+    "name": "Notícias",
+    "url": "/",
     "badge": false,
     "matBadge": null,
-    "icon": 'library_books'
+    "icon": "library_books"
   },
   {
-    "name": 'Materiais de apoio',
-    "url": '/',
+    "name": "Materiais de apoio",
+    "url": "/",
     "badge": false,
     "matBadge": null,
-    "icon": 'save_alt'
+    "icon": "save_alt"
   },
   {
-    name: 'Treinamentos',
-    "url": '/',
+    name: "Treinamentos",
+    "url": "/",
     "badge": false,
     "matBadge": null,
-    "icon": 'school'
+    "icon": "school"
   },
   {
-    name: 'Painel de controle',
-    "url": '/',
+    name: "Painel de controle",
+    "url": "/",
     "badge": false,
     "matBadge": null,
-    "icon": 'web'
+    "icon": "web"
   },
   {
-    name: 'Recados',
-    "url": '/',
+    name: "Recados",
+    "url": "/",
     "badge": true,
     "matBadge": 4,
-    "icon": 'notifications_none'
+    "icon": "notifications_none"
   },
   ]
