@@ -50,21 +50,21 @@
     "icon": "save_alt"
   },
   {
-    name: "Treinamentos",
+    "name": "Treinamentos",
     "url": "/",
     "badge": false,
     "matBadge": null,
     "icon": "school"
   },
   {
-    name: "Painel de controle",
+    "name": "Painel de controle",
     "url": "/",
     "badge": false,
     "matBadge": null,
     "icon": "web"
   },
   {
-    name: "Recados",
+    "name": "Recados",
     "url": "/",
     "badge": true,
     "matBadge": 4,
